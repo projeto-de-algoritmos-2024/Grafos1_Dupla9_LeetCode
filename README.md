@@ -10,10 +10,11 @@
 | xx/xxxxxx  |  xxxx xxxx xxxxx |
 
 ## Sobre 
-Alguns exercícios resolvidos do leetcode no tópico de grafos 1. Simples.
+3 exercícios (2 médios, 1 difícil) resolvidos do leetcode no tópico de grafos 1. Simples.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+![code 332](https://raw.githubusercontent.com/projeto-de-algoritmos-2024/Grafos1_Dupla9_LeetCode/refs/heads/master/pictures/rodando332.png)
+![code 133](https://raw.githubusercontent.com/projeto-de-algoritmos-2024/Grafos1_Dupla9_LeetCode/refs/heads/master/pictures/rodando133.png) 
 
 ## Instalação 
 **Linguagem**: Python<br>
@@ -21,9 +22,6 @@ Não é necessária a instalação.
 
 ## Uso 
 Para utilizar o projeto, copie e cole uma das soluções no problema do leetcode correspondente.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
 
 
