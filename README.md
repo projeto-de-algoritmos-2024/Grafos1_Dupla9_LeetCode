@@ -7,7 +7,7 @@
 |Matrícula | Aluno |
 | -- | -- |
 | 22/1008436  |  Ryan Augusto Brandão Salles |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 22/1008481  |  Víctor Moreira Almeida |
 
 ## Sobre 
 3 exercícios (2 médios, 1 difícil) resolvidos do leetcode no tópico de grafos 1. Simples.
@@ -15,6 +15,7 @@
 ## Screenshots
 ![code 332](https://raw.githubusercontent.com/projeto-de-algoritmos-2024/Grafos1_Dupla9_LeetCode/refs/heads/master/pictures/rodando332.png)
 ![code 133](https://raw.githubusercontent.com/projeto-de-algoritmos-2024/Grafos1_Dupla9_LeetCode/refs/heads/master/pictures/rodando133.png) 
+![code 547](https://raw.githubusercontent.com/projeto-de-algoritmos-2024/Grafos1_Dupla9_LeetCode/refs/heads/master/pictures/rodando547.png) 
 
 ## Instalação 
 **Linguagem**: Python<br>
