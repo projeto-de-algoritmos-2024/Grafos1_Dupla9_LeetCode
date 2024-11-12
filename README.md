@@ -11,6 +11,7 @@
 
 ## Sobre 
 3 exercícios (2 médios, 1 difícil) resolvidos do leetcode no tópico de grafos 1. Simples.
+[explicação estensa do código](https://youtu.be/wwqPcp_WIPI)
 
 ## Screenshots
 ![code 332](https://raw.githubusercontent.com/projeto-de-algoritmos-2024/Grafos1_Dupla9_LeetCode/refs/heads/master/pictures/rodando332.png)
