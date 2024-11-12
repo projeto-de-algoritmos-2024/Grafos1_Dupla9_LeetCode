@@ -1,7 +1,7 @@
 # made with help of Aprxl :>
 
 class Solution:
-    #1st approach: somewhat big greed -> assumes the best lexical order is the correct.
+    #3rd attempt: adaption of a dfs on the graph.
     def go(self, current: str, tickets: dict, results: list):
         print("DEBUG! current", current)
         try:
